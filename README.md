@@ -1,5 +1,5 @@
 # Welcome to my GitHub
-Check out [my website]().
+Check out [my website](https://peterbachman100.github.io/thisispeterbachman/).
 
 I do front end web development, and also am interested in video games, maps, and augmented reality.
 
